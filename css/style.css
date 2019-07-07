@@ -1,0 +1,70 @@
+@charset utf-8;
+
+body{
+	text-align: center;
+}
+nav{
+	position: fixed;
+  	top: 0;
+  	width: 100%;
+  	background-color: white;
+}
+header #logo{
+	height: 60px;
+	margin:0 20px 0;
+	float:left;
+}
+
+header a{
+	text-decoration: none;
+	color:black;
+	margin:0 10px 0;
+	cursor:pointer;
+}
+
+header a:hover{font-weight: bold;}
+
+header table{
+	width: 100%;
+	min-width: 950px;
+	height: 60px;
+	margin: auto;
+	
+}
+header table{
+	border-bottom: 3px solid #165456;
+}
+
+#headerBar{
+    width:100%;
+    height: 60px;
+}
+
+#cell1{
+	width:162px;
+	height: 60px;
+}
+
+#stock table{
+	margin: 0 auto 0;
+	padding:10px;
+}
+
+
+.blue{color:#0051C9;}
+.red{color:#DD0000;}
+.alignLeft{text-align: left;}
+.alignCenter{text-align: center;}
+.alignRight{text-align: right;}
+.valignCenter{vertical-align: middle;}
+
+
+
+
+
+
+
+
+
+
+
